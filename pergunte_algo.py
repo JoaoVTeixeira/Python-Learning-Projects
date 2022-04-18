@@ -10,5 +10,3 @@ else:
     else:
         if number == 3:
             print("No")
-
-print (number)
